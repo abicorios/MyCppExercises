@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+# MyIgnore
+*~
+*.swp
+*.suo
+*.tlog
+*.db
+*.ipch
+*.ilk
+*.pdb
+Debug/
